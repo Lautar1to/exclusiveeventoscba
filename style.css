@@ -151,3 +151,10 @@ body {
     transform: scaleX(1);
     transform-origin: bottom left;
 }
+
+@font-face {
+    font-family: 'pepper-type-shtozer-600wide';
+    src: url('fonts/pepper-type-shtozer-600wide.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
